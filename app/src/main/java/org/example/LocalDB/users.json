@@ -1,0 +1,33 @@
+[
+  {
+    "user_id" : "ab67",
+    "name" : "risav",
+    "hashedPassword": "347dife93093",
+    "tickets_booked": [
+      {
+        "source" : "Kathmandu",
+        "Destination" : "Sauraha",
+        "date_of_travel": "2025-1-19T8:30:00Z",
+        "bus": {
+          "bus_id" : "CityTravel12",
+          "bus_number" : "BA12Cha6231",
+          "seats": [
+            [0,0,0,0],
+            [0,0,0,0],
+            [0,0,0,0],
+            [0,0,0,0],
+            [0,0,0,0],
+            [0,0,0,0],
+            [0,0,0,0],
+            [0,0,0,0,0]
+          ],
+          "station": {
+            "Kathmandu": "8:30:00",
+            "Sauraha": "14:30:00"
+          }
+        }
+      }
+    ]
+
+  }
+]
