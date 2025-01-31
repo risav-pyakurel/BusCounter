@@ -17,7 +17,7 @@ public class UserBookingService
 
     private ObjectMapper objectMapper = new ObjectMapper();
 
-    private static final String USERS_PATH = "../LocalDB/users.json";
+    private static final String USERS_PATH = "/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/LocalDB/users.json";
 
     public UserBookingService(User user1)  throws IOException
     {

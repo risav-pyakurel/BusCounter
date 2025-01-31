@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7357bd00-4a1e-4ba7-a38c-f097f834e042" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/example/LocalDB/bus.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/example/LocalDB/bus.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/example/Service/UserBookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/example/Service/UserBookingService.java" afterDir="false" />
-      <change beforePath="/mnt/data/Documents/Codes/BusCounter/.idea/gradle.xml" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="/mnt/data/Documents/Codes/BusCounter/.idea/misc.xml" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/.idea/misc.xml" afterDir="false" />
-      <change beforePath="/mnt/data/Documents/Codes/BusCounter/.idea/vcs.xml" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/.idea/vcs.xml" afterDir="false" />
       <change beforePath="/mnt/data/Documents/Codes/BusCounter/.idea/workspace.xml" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="/mnt/data/Documents/Codes/BusCounter/app/build.gradle" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/app/build.gradle" afterDir="false" />
-      <change beforePath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/LocalDB/bus.json" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/LocalDB/bus.json" afterDir="false" />
       <change beforePath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/Service/UserBookingService.java" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/Service/UserBookingService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738149790087</updated>
       <workItem from="1738166065014" duration="7270000" />
-      <workItem from="1738315615509" duration="1337000" />
+      <workItem from="1738315615509" duration="1765000" />
     </task>
     <servers />
   </component>
