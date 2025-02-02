@@ -25,6 +25,10 @@ public class UserBookingService
         File users = new File(USERS_PATH);
         userList = objectMapper.readValue(users, new TypeReference<List<User>>(){});
     }
+    public Boolean loginUser(){
+
+    }
 
 }
+
 
