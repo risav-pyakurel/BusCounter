@@ -29,7 +29,7 @@ public class UserBookingService
     public Boolean loginUser(){
         Optional <User> foundUser = userList.stream().filter(user1 ->
         {
-            return user1.getName().equals(user.getName()) && UserServiceutil.CheckPassword(user.getPassword(),)
+            return user1.getName().equals(user.getName()) && UserServiceutil.CheckPassword(user.getPassword(), )
         }).findFirst();
 
 
