@@ -11,12 +11,9 @@ import java.util.stream.Stream;
 
 
 public class App {
-    public  static void main(String[] args) {
-        List<Integer> l = Arrays.asList(1,2,3,4,5,6,7,8);
-        List<Integer> l1 = l.stream().filter(isEven()).collect(Collectors.toList());
+    public static void main(String[] args) {
+        List<Integer> l = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8);
+        l.stream().map(e -> e * 2).collect(Collectors.toList());
 
-    }
-    public static Predicate <Integer> isEven(){
-        return i -> i%2==0;
     }
 }
