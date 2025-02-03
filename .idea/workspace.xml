@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7357bd00-4a1e-4ba7-a38c-f097f834e042" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/example/App.java" afterDir="false" />
       <change beforePath="/mnt/data/Documents/Codes/BusCounter/.idea/workspace.xml" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/.idea/workspace.xml" afterDir="false" />
       <change beforePath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/App.java" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/Service/UserBookingService.java" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/Service/UserBookingService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,9 @@
     &quot;accountId&quot;: &quot;7ba39fbc-c780-4245-ad4f-a0d710f5da8e&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-21.0.6/lib/src.zip!/java.base/java/util/stream/Stream.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -81,7 +84,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -106,7 +109,8 @@
       <workItem from="1738333522973" duration="1247000" />
       <workItem from="1738492417975" duration="513000" />
       <workItem from="1738510912849" duration="618000" />
-      <workItem from="1738597222513" duration="826000" />
+      <workItem from="1738597222513" duration="2669000" />
+      <workItem from="1738603980142" duration="117000" />
     </task>
     <servers />
   </component>
