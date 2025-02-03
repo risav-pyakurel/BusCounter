@@ -21,28 +21,28 @@ public class User {
 
     public User(){}
 
-    public String setName() {
+    public String getName() {
         return this.name;
     }
-    public String setPassword() {
+    public String getPassword() {
         return this.password;
     }
-    public String setHashedPassword() {
+    public String getHashedPassword() {
         return this.hashedPassword;
     }
-    public List<Ticket> setTicketsBooked() {
+    public List<Ticket> getTicketsBooked() {
         return this.ticketsBooked;
     }
     public void printTickets() {
         for (int i = 0; i < ticketsBooked.size(); i++)
-            Sytem.out.println(ticketsBooked.get(i).getTicketInfo());
+            System.out.println(ticketsBooked.get(i).getTicketInfo());
 
     }
 
-    public String setUserId() {
+    public String getUserId() {
         return this.userId;
     }
-    public String setContactNumber() {
+    public String getContactNumber() {
         return this.ContactNumber;
     }
 
