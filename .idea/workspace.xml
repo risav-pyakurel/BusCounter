@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7357bd00-4a1e-4ba7-a38c-f097f834e042" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/org/example/util/UserServiceUtil.java" afterDir="false" />
-      <change afterPath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/util/UserServiceUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="/mnt/data/Documents/Codes/BusCounter/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="/mnt/data/Documents/Codes/BusCounter/.idea/vcs.xml" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/.idea/vcs.xml" afterDir="false" />
       <change beforePath="/mnt/data/Documents/Codes/BusCounter/.idea/workspace.xml" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="/mnt/data/Documents/Codes/BusCounter/app/build.gradle" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/app/build.gradle" afterDir="false" />
       <change beforePath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/Service/UserBookingService.java" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/Service/UserBookingService.java" afterDir="false" />
+      <change beforePath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/util/UserServiceUtil.java" beforeDir="false" afterPath="/mnt/data/Documents/Codes/BusCounter/app/src/main/java/org/example/util/UserServiceUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +113,7 @@
       <workItem from="1738603980142" duration="2520000" />
       <workItem from="1738661579211" duration="740000" />
       <workItem from="1738691085802" duration="639000" />
-      <workItem from="1738933600320" duration="1846000" />
+      <workItem from="1738933600320" duration="2288000" />
     </task>
     <servers />
   </component>
