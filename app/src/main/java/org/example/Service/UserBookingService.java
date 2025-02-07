@@ -3,6 +3,7 @@ package org.example.Service;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.example.entities.User;
+import org.example.util.UserServiceUtil;
 
 import java.io.File;
 import java.io.IOException;
@@ -29,7 +30,7 @@ public class UserBookingService
     public Boolean loginUser(){
         Optional <User> foundUser = userList.stream().filter(user1 ->
         {
-            return user1.getName().equals(user.getName()) && UserServiceutil.CheckPassword(user.getPassword(), )
+            return user1.getName().equalsIgnoreCase(user.getName()) && UserServiceUtil.CheckPassword(user.getPassword(), user1.getHashedPassword())
         }).findFirst();
 
 
